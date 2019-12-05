@@ -1,0 +1,44 @@
+.ant-radio-button-wrapper-checked.gray, .ant-radio-button-wrapper-checked.gray::before {
+    color: #fff;
+    background: rgb(221, 221, 221) !important;
+    border-color: rgb(221, 221, 221) !important;
+    box-shadow: -1px 0 0 0rgb(221, 221, 221) !important;
+}
+.ant-radio-group .gray:not(.ant-radio-button-wrapper-checked):hover {
+    color: rgb(221, 221, 221)!important;
+}
+
+.ant-radio-button-wrapper-checked.red, .ant-radio-button-wrapper-checked.red::before {
+    color: #fff;
+    background: rgb(255, 69, 64) !important;
+    border-color: rgb(255, 69, 64) !important;
+    box-shadow: -1px 0 0 0 rgb(255, 69, 64) !important;
+}
+.ant-radio-group .red:not(.ant-radio-button-wrapper-checked):hover {
+    color: rgb(255, 69, 64)!important;
+}
+
+.ant-radio-button-wrapper-checked.yellow, .ant-radio-button-wrapper-checked.yellow::before {
+    color: #fff;
+    background: rgb(255, 196, 66) !important;
+    border-color: rgb(255, 196, 66) !important;
+    box-shadow: -1px 0 0 0 rgb(255, 196, 66) !important;
+}
+
+.ant-radio-group .yellow:not(.ant-radio-button-wrapper-checked):hover {
+    color: rgb(255, 196, 66)!important;
+}
+
+
+.ant-radio-button-wrapper-checked.green, .ant-radio-button-wrapper-checked.green::before {
+    color: #fff;
+    background: rgb(34, 215, 187) !important;
+    border-color: rgb(34, 215, 187) !important;
+    box-shadow: -1px 0 0 0 rgb(34, 215, 187) !important;
+}
+
+.ant-radio-group .green:not(.ant-radio-button-wrapper-checked):hover {
+    color: rgb(34, 215, 187)!important;
+}
+
+

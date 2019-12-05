@@ -1,0 +1,37 @@
+{
+  "name": "easyokr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "production": "pm2 start process.prod.json --no-daemon",
+    "start": "nodemon --config nodemon.json app.js"
+  },
+  "author": "blockdog",
+  "license": "MIT",
+  "dependencies": {
+    "@alicloud/sms-sdk": "^1.1.6",
+    "axios": "^0.18.0",
+    "dayjs": "^1.8.14",
+    "eosjs": "^16.0.9",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.16.2",
+    "koa": "^2.0.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-log4": "^2.1.0",
+    "koa-router": "^7.0.1",
+    "koa2-cors": "^2.0.6",
+    "lodash": "^4.17.4",
+    "log4js": "^3.0.6",
+    "mysql": "^2.14.1",
+    "mysql2": "^2.0.0",
+    "pify": "^4.0.1",
+    "redis": "^2.8.0",
+    "sequelize": "^5.21.2",
+    "shortid": "^2.2.14"
+  },
+  "devDependencies": {
+    "debug": "^4.1.0",
+    "nodemon": "^1.19.1"
+  }
+}

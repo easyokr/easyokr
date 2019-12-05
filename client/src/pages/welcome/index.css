@@ -1,0 +1,27 @@
+
+
+  .sider-menu-logo {
+    position: relative;
+    height: 64px;
+    padding-left: 24px;
+    overflow: hidden;
+    line-height: 64px;
+    background: #001529;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.sider-menu-logo h1 {
+  display: inline-block;
+  margin: 0 0 0 12px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 20px;
+  vertical-align: middle;
+}
+
+.sider-menu-logo img {
+  display: inline-block;
+  height: 32px;
+  vertical-align: middle;
+}

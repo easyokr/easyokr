@@ -1,0 +1,17 @@
+#root {
+    background-color: #f0f2f5;
+    height: 100vh;
+}
+
+.box {
+    margin: 24px 16px 0;
+}
+
+.ant-list-item-meta-description {
+    color: rgba(0, 0, 0, 0.65);
+    
+}
+
+.ant-list-item-meta-title,  .ant-list-item-meta-title a{
+    color: rgba(0, 0, 0, 0.45);
+}

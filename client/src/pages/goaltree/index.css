@@ -1,0 +1,53 @@
+.tab-header {
+    background: #ffffff;
+    margin: 0;
+}
+
+.canvas {
+    background: #ffffff;
+    height: 90vh;
+}
+
+.g6-tooltip {
+    padding: 10px 6px;
+    color: #444;
+    background-color: rgba(255,255,255,0.9);
+    border: 1px solid #e2e2e2;
+    border-radius: 4px;
+  }
+  .g6-node {
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      display:flex !important;
+      align-items:center;
+      
+  }
+
+  .g6-node div {
+    width: 100%;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+.ellipsis{
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis
+}
+.multi-ellipsis--l2{
+    -webkit-line-clamp:2
+}
+.multi-ellipsis--l2,.multi-ellipsis--l3{
+    display:-webkit-box;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    -webkit-box-orient:vertical}
+.multi-ellipsis--l3{
+    -webkit-line-clamp:3
+}
+
+#container {
+    height: 100vh;
+}
