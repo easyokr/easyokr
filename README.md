@@ -1,3 +1,3 @@
 # 一站式OKR企业服务 - easyokr.cn
 
-## 业务合作 easyokr@163.com
+![微信](https://github.com/easyokr/easyokr/blob/master/wxcode.jpeg?raw=true)
