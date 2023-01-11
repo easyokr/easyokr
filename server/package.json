@@ -15,7 +15,7 @@
     "dayjs": "^1.8.14",
     "eosjs": "^16.0.9",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.16.2",
+    "knex": "^2.4.0",
     "koa": "^2.0.0",
     "koa-bodyparser": "^4.2.1",
     "koa-log4": "^2.1.0",
